@@ -1,0 +1,19 @@
+export const labs = [
+    {
+        id: 1,
+        title: "Лабораторна робота №1",
+        description:
+            "Налаштування локального середовища та створення першого React додатку",
+        githubUrl: "https://github.com/tosentai/react_lab1",
+        vercelUrl: "https://react-lab1-rose.vercel.app/",
+        icon: "⚛️",
+    },
+    {
+        id: 2,
+        title: "Лабораторна робота №2",
+        description: "React Компонент. Пропси та Стан",
+        githubUrl: "https://github.com/tosentai/react_lab2",
+        vercelUrl: "https://react-lab2-eta.vercel.app/",
+        icon: "🧩",
+    },
+];
