@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import WindowHeader from "./components/common/WindowHeader";
 import MenuBar from "./components/common/MenuBar";
 import StatusBar from "./components/common/StatusBar";
@@ -7,6 +7,10 @@ import FolderView from "./components/layout/FolderView";
 import { labs } from "./data/labs";
 
 export default function App() {
+    useEffect(() => {
+        document.title = "React Lab Collection";
+    }, []);
+
     const [isMaximized, setIsMaximized] = useState(false);
 
     const handleClose = () => {
