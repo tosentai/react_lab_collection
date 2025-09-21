@@ -16,4 +16,12 @@ export const labs = [
         vercelUrl: "https://react-lab2-eta.vercel.app/",
         icon: "🧩",
     },
+    {
+        id: 3,
+        title: "Лабораторна робота №3",
+        description: "Дерево компонентів. Хуки",
+        githubUrl: "https://github.com/tosentai/react_lab3",
+        vercelUrl: "https://react-lab3-iota.vercel.app/",
+        icon: "📋",
+    },
 ];
