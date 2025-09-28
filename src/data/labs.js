@@ -30,6 +30,6 @@ export const labs = [
         description: "Fetching Data. Custom hooks",
         githubUrl: "https://github.com/tosentai/react_lab4",
         vercelUrl: "https://react-lab4-ruddy.vercel.app/",
-        icon: "📋",
+        icon: "🔄",
     },
 ];
