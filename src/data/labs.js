@@ -24,4 +24,12 @@ export const labs = [
         vercelUrl: "https://react-lab3-nu.vercel.app/",
         icon: "📋",
     },
+    {
+        id: 4,
+        title: "Лабораторна робота №4",
+        description: "Fetching Data. Custom hooks",
+        githubUrl: "https://github.com/tosentai/react_lab4",
+        vercelUrl: "https://react-lab4-ruddy.vercel.app/",
+        icon: "📋",
+    },
 ];
