@@ -32,4 +32,12 @@ export const labs = [
         vercelUrl: "https://react-lab4-ruddy.vercel.app/",
         icon: "🔄",
     },
+    {
+        id: 999,
+        title: "Розслабтесь і пограйте в Tosentai Tower",
+        description: "Гра створена з використанням React",
+        githubUrl: "https://github.com/tosentai/tosentai_tower",
+        vercelUrl: "https://tosentai-tower.vercel.app/",
+        icon: "🎮",
+    },
 ];
