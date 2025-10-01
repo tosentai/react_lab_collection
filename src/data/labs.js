@@ -26,10 +26,10 @@ export const labs = [
     },
     {
         id: 4,
-        title: "Лабораторна робота №4",
+        title: "Лабораторна робота №4-6",
         description: "Fetching Data. Custom hooks",
-        githubUrl: "https://github.com/tosentai/react_lab4",
-        vercelUrl: "https://react-lab4-ruddy.vercel.app/",
+        githubUrl: "https://github.com/tosentai/react_lab4-6",
+        vercelUrl: "https://react-lab4-6.vercel.app/",
         icon: "🔄",
     },
     {
